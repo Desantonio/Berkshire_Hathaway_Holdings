@@ -12,6 +12,6 @@ CREATE TABLE berkshire_hathaway (
 
 
 .mode csv
-.import /Users/vatsalgayakwad/downloads/Berkshire_Hathaway_Holdings.csv berkshire_hathaway
+.import /Users/vatsalgayakwad/Documents/Berkshire_Hathaway/Berkshire_Hathaway_Holdings.csv berkshire_hathaway
 
 SELECT * FROM berkshire_hathaway;
